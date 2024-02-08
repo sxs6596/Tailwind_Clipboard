@@ -6,6 +6,9 @@
     @apply text-4xl font-bold mb-8 md:text-5xl text-gray-500;
   }
 }
+.section-content {
+  @apply max-w-3xl mx-auto text-xl leading-9 text-center text-gray-400;
+}
 .section-container {
   @apply max-w-6xl mx-auto text-center;
 }
